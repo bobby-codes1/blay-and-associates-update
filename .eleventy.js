@@ -1,4 +1,3 @@
-
 const markdownIt = require("markdown-it");
 
     // Add within your config module
