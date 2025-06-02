@@ -203,12 +203,20 @@
     "url": "/assets/images/image.svg",
     "alt": ""
   },
-  "248ecef8": {
-    "url": "/assets/images/arrow-white-.svg",
-    "alt": "White Arrow"
+  "45014e8a": {
+    "url": "/assets/images/lucy-blay.avif",
+    "alt": "Image of Lucy Blay"
   },
-  "2755adc": {
-    "url": "/assets/images/blayandassociates-logo-white.avif",
+  "-351c00": {
+    "url": "/assets/images/home-four-rotate-arrow.svg",
+    "alt": "Home Four Rotate Arrow"
+  },
+  "4d361b2d": {
+    "url": "/assets/images/financial-image.webp",
+    "alt": ""
+  },
+  "26c65337": {
+    "url": "/assets/images/vector-1.svg",
     "alt": ""
   },
   "531d01ba": {
@@ -231,21 +239,13 @@
     "url": "/assets/images/blog-img1_1blog-img1.webp",
     "alt": "Blog Author Image"
   },
-  "-351c00": {
-    "url": "/assets/images/home-four-rotate-arrow.svg",
-    "alt": "Home Four Rotate Arrow"
+  "248ecef8": {
+    "url": "/assets/images/arrow-white-.svg",
+    "alt": "White Arrow"
   },
-  "4d361b2d": {
-    "url": "/assets/images/financial-image.webp",
+  "2755adc": {
+    "url": "/assets/images/blayandassociates-logo-white.avif",
     "alt": ""
-  },
-  "26c65337": {
-    "url": "/assets/images/vector-1.svg",
-    "alt": ""
-  },
-  "45014e8a": {
-    "url": "/assets/images/lucy-blay.avif",
-    "alt": "Image of Lucy Blay"
   },
   "3cd96103": {
     "url": "/assets/images/gavel-1.svg",
@@ -283,8 +283,12 @@
     "url": "/assets/images/about-two-arrow.svg",
     "alt": "Arrow"
   },
-  "587ea5a4": {
-    "url": "/assets/images/4829869_arrow_next_right_icon-2.svg",
+  "-46796a01": {
+    "url": "/assets/images/group-1.svg",
+    "alt": ""
+  },
+  "-3cbca8bd": {
+    "url": "/assets/external/placeholder.60f9b1840c.svg",
     "alt": ""
   },
   "-115eba3b": {
@@ -299,12 +303,8 @@
     "url": "/assets/images/vector-7.svg",
     "alt": "Icon"
   },
-  "-46796a01": {
-    "url": "/assets/images/group-1.svg",
-    "alt": ""
-  },
-  "-3cbca8bd": {
-    "url": "/assets/external/placeholder.60f9b1840c.svg",
+  "587ea5a4": {
+    "url": "/assets/images/4829869_arrow_next_right_icon-2.svg",
     "alt": ""
   }
 }

@@ -712,251 +712,6 @@ collections:
             label: Text
             name: '-b9d180e'
             widget: string
-          - hint: 'Original text: People, key: -71b8e151'
-            label: Text
-            name: '-71b8e151'
-            widget: string
-          - hint: 'Original text: About, key: 3c2336d'
-            label: Text
-            name: 3c2336d
-            widget: string
-          - hint: 'Original text: Experience, key: 71b8358a'
-            label: Text
-            name: 71b8358a
-            widget: string
-          - hint: 'Original text: Publications, key: 4183f7e7'
-            label: Text
-            name: 4183f7e7
-            widget: string
-          - hint: >-
-              Original text: This is some text inside of a div block., key:
-              7635fb4f
-            label: Text
-            name: 7635fb4f
-            widget: string
-          - hint: "Original text:  Get started \_now, key: 616c9f3f"
-            label: Text
-            name: 616c9f3f
-            widget: string
-          - hint: >-
-              Original text: Schedule a Consultation with Our experienced legal
-              Team, key: 216546a9
-            label: Text
-            name: 216546a9
-            widget: string
-          - hint: 'Original text: Get in Touch, key: -53f399f2'
-            label: Text
-            name: '-53f399f2'
-            widget: string
-          - hint: 'Original text: Get In Touch, key: -501935d2'
-            label: Text
-            name: '-501935d2'
-            widget: string
-          - hint: 'Original text: , key: f0e1'
-            label: Text
-            name: f0e1
-            widget: string
-          - hint: >-
-              Original text: We would really want to hear from you. Let us know
-              the concerns you have., key: 4e53371f
-            label: Text
-            name: 4e53371f
-            widget: string
-          - hint: 'Original text: Schedule a call, key: 5144446'
-            label: Text
-            name: '5144446'
-            widget: string
-          - hint: 'Original text: Useful Links, key: -1503fa51'
-            label: Text
-            name: '-1503fa51'
-            widget: string
-          - hint: 'Original text: Team, key: 27b67d'
-            label: Text
-            name: 27b67d
-            widget: string
-          - hint: 'Original text: Contact Us, key: 7f2746de'
-            label: Text
-            name: 7f2746de
-            widget: string
-          - hint: 'Original text: HQFX + 3FJ, key: 6e0dedfd'
-            label: Text
-            name: 6e0dedfd
-            widget: string
-          - hint: 'Original text: Pyramid House, key: -55379bf0'
-            label: Text
-            name: '-55379bf0'
-            widget: string
-          - hint: 'Original text: Ring Road Central, Accra., key: -38c79e69'
-            label: Text
-            name: '-38c79e69'
-            widget: string
-          - hint: 'Original text: +233 540 130 760, key: -611c27e9'
-            label: Text
-            name: '-611c27e9'
-            widget: string
-          - hint: 'Original text: Email, key: 3ff5b7c'
-            label: Text
-            name: 3ff5b7c
-            widget: string
-          - hint: 'Original text: info@blayandassociates.com, key: -35b7d115'
-            label: Text
-            name: '-35b7d115'
-            widget: string
-          - hint: 'Original text: The Team, key: 41aee8ec'
-            label: Text
-            name: 41aee8ec
-            widget: string
-          - hint: >-
-              Original text: At Blay and Associates, our people are our greatest
-              asset. We are a team of approachable and dedicated legal experts
-              who prioritize understanding your unique needs. Our team of
-              experienced legal professionals brings a wealth of knowledge and
-              diverse perspectives to every case. We believe in collaborative
-              problem-solving and are united in our commitment to achieving the
-              best possible outcomes for our clients., key: -4b7121fc
-            label: Text
-            name: '-4b7121fc'
-            widget: text
-          - hint: 'Original text: No items found., key: 3d503d2b'
-            label: Text
-            name: 3d503d2b
-            widget: string
-          - hint: 'Original text: Latest Articles, key: 35cec6b6'
-            label: Text
-            name: 35cec6b6
-            widget: string
-          - hint: 'Original text: View all articles, key: -16fb78a9'
-            label: Text
-            name: '-16fb78a9'
-            widget: string
-          - hint: 'Original text: Criminal, key: 77d36083'
-            label: Text
-            name: 77d36083
-            widget: string
-          - hint: 'Original text: |, key: 7c'
-            label: Text
-            name: 7c
-            widget: string
-          - hint: 'Original text: 20th March, 2025, key: 71330a6a'
-            label: Text
-            name: 71330a6a
-            widget: string
-          - hint: >-
-              Original text: Ghana: Energy - Oil and Gas - Country Comparative
-              Guides., key: 44e66e6f
-            label: Text
-            name: 44e66e6f
-            widget: string
-          - hint: 'Original text: Read more, key: 31997f7f'
-            label: Text
-            name: 31997f7f
-            widget: string
-          - hint: 'Original text: Mining, key: -769f9b90'
-            label: Text
-            name: '-769f9b90'
-            widget: string
-          - hint: 'Original text: 26th February, 2025, key: -729537e1'
-            label: Text
-            name: '-729537e1'
-            widget: string
-          - hint: 'Original text: ICLG - Oil and Gas Regulations 2025, key: -2d0f7acc'
-            label: Text
-            name: '-2d0f7acc'
-            widget: string
-          - hint: 'Original text: Areas of Expertise, key: -27bb589e'
-            label: Text
-            name: '-27bb589e'
-            widget: string
-          - hint: >-
-              Original text: We provide strategic legal counsel and
-              representation in key sectors, ensuring our clients navigate
-              complex legal landscapes with confidence. Our areas of expertise
-              encompass: Dispute Resolution, Energy, Power and Infrastructure,
-              Mining, Corporate Transactions, Criminal Law, Banking and Finance,
-              and a broad range of related legal services., key: -ef094e9
-            label: Text
-            name: '-ef094e9'
-            widget: text
-          - hint: >-
-              Original text: Surrogacy and Reproduction Technology, key:
-              -56a889ac
-            label: Text
-            name: '-56a889ac'
-            widget: string
-          - hint: 'Original text: Banking and Finance, key: -3f2b46a9'
-            label: Text
-            name: '-3f2b46a9'
-            widget: string
-          - hint: 'Original text: Project Finance, key: -2a26a26d'
-            label: Text
-            name: '-2a26a26d'
-            widget: string
-          - hint: 'Original text: Fintech, key: 30656901'
-            label: Text
-            name: '30656901'
-            widget: string
-          - hint: 'Original text: Media and Entertainment, key: -f804c7d'
-            label: Text
-            name: '-f804c7d'
-            widget: string
-          - hint: 'Original text: IP Dispute Resolution, key: -54b57e9f'
-            label: Text
-            name: '-54b57e9f'
-            widget: string
-          - hint: 'Original text: Telecommunications, key: 770c79a7'
-            label: Text
-            name: 770c79a7
-            widget: string
-          - hint: 'Original text: Energy, Power and Infrastructure, key: -32503f9d'
-            label: Text
-            name: '-32503f9d'
-            widget: string
-          - hint: 'Original text: Natural Resources, key: 7960faae'
-            label: Text
-            name: 7960faae
-            widget: string
-          - hint: >-
-              Original text: Green Financing and Sustainability Compliance, key:
-              -7dae7d7b
-            label: Text
-            name: '-7dae7d7b'
-            widget: string
-          - hint: 'Original text: White Collar Crime, key: f92e9e6'
-            label: Text
-            name: f92e9e6
-            widget: string
-          - hint: 'Original text: Our Team, key: 290af1'
-            label: Text
-            name: 290af1
-            widget: string
-          - hint: 'Original text: View our team, key: 192a31ac'
-            label: Text
-            name: 192a31ac
-            widget: string
-          - hint: 'Original text: Frederick Worsemao Armah Blay, key: 42f2a469'
-            label: Text
-            name: 42f2a469
-            widget: string
-          - hint: 'Original text: Senior Partner, key: -28d72528'
-            label: Text
-            name: '-28d72528'
-            widget: string
-          - hint: 'Original text: Lucie Ekeleba Blay, key: 5bed1db5'
-            label: Text
-            name: 5bed1db5
-            widget: string
-          - hint: 'Original text: Managing Partner, key: 4b6e478a'
-            label: Text
-            name: 4b6e478a
-            widget: string
-          - hint: 'Original text: Davidina Aba Dadson, key: -33f5c13d'
-            label: Text
-            name: '-33f5c13d'
-            widget: string
-          - hint: 'Original text: Legal Associate, key: -25a8e5c9'
-            label: Text
-            name: '-25a8e5c9'
-            widget: string
           - hint: 'Original text: Results Driven. Dedicated Lawyers, key: -7eac2882'
             label: Text
             name: '-7eac2882'
@@ -1031,6 +786,170 @@ collections:
           - hint: 'Original text: Technology, key: 12b9612c'
             label: Text
             name: 12b9612c
+            widget: string
+          - hint: 'Original text: Mining, key: -769f9b90'
+            label: Text
+            name: '-769f9b90'
+            widget: string
+          - hint: >-
+              Original text: Surrogacy and Reproduction Technology, key:
+              -56a889ac
+            label: Text
+            name: '-56a889ac'
+            widget: string
+          - hint: 'Original text: Banking and Finance, key: -3f2b46a9'
+            label: Text
+            name: '-3f2b46a9'
+            widget: string
+          - hint: 'Original text: Natural Resources, key: 7960faae'
+            label: Text
+            name: 7960faae
+            widget: string
+          - hint: 'Original text: No items found., key: 3d503d2b'
+            label: Text
+            name: 3d503d2b
+            widget: string
+          - hint: 'Original text: Our Team, key: 290af1'
+            label: Text
+            name: 290af1
+            widget: string
+          - hint: 'Original text: View our team, key: 192a31ac'
+            label: Text
+            name: 192a31ac
+            widget: string
+          - hint: 'Original text: Frederick Worsemao Armah Blay, key: 42f2a469'
+            label: Text
+            name: 42f2a469
+            widget: string
+          - hint: 'Original text: Senior Partner, key: -28d72528'
+            label: Text
+            name: '-28d72528'
+            widget: string
+          - hint: 'Original text: Lucie Ekeleba Blay, key: 5bed1db5'
+            label: Text
+            name: 5bed1db5
+            widget: string
+          - hint: 'Original text: Managing Partner, key: 4b6e478a'
+            label: Text
+            name: 4b6e478a
+            widget: string
+          - hint: 'Original text: Davidina Aba Dadson, key: -33f5c13d'
+            label: Text
+            name: '-33f5c13d'
+            widget: string
+          - hint: 'Original text: Legal Associate, key: -25a8e5c9'
+            label: Text
+            name: '-25a8e5c9'
+            widget: string
+          - hint: 'Original text: Latest Articles, key: 35cec6b6'
+            label: Text
+            name: 35cec6b6
+            widget: string
+          - hint: 'Original text: View all articles, key: -16fb78a9'
+            label: Text
+            name: '-16fb78a9'
+            widget: string
+          - hint: 'Original text: Criminal, key: 77d36083'
+            label: Text
+            name: 77d36083
+            widget: string
+          - hint: 'Original text: |, key: 7c'
+            label: Text
+            name: 7c
+            widget: string
+          - hint: 'Original text: 20th March, 2025, key: 71330a6a'
+            label: Text
+            name: 71330a6a
+            widget: string
+          - hint: >-
+              Original text: Ghana: Energy - Oil and Gas - Country Comparative
+              Guides., key: 44e66e6f
+            label: Text
+            name: 44e66e6f
+            widget: string
+          - hint: 'Original text: Read more, key: 31997f7f'
+            label: Text
+            name: 31997f7f
+            widget: string
+          - hint: 'Original text: 26th February, 2025, key: -729537e1'
+            label: Text
+            name: '-729537e1'
+            widget: string
+          - hint: 'Original text: ICLG - Oil and Gas Regulations 2025, key: -2d0f7acc'
+            label: Text
+            name: '-2d0f7acc'
+            widget: string
+          - hint: "Original text:  Get started \_now, key: 616c9f3f"
+            label: Text
+            name: 616c9f3f
+            widget: string
+          - hint: >-
+              Original text: Schedule a Consultation with Our experienced legal
+              Team, key: 216546a9
+            label: Text
+            name: 216546a9
+            widget: string
+          - hint: 'Original text: Get in Touch, key: -53f399f2'
+            label: Text
+            name: '-53f399f2'
+            widget: string
+          - hint: 'Original text: Get In Touch, key: -501935d2'
+            label: Text
+            name: '-501935d2'
+            widget: string
+          - hint: 'Original text: , key: f0e1'
+            label: Text
+            name: f0e1
+            widget: string
+          - hint: >-
+              Original text: We would really want to hear from you. Let us know
+              the concerns you have., key: 4e53371f
+            label: Text
+            name: 4e53371f
+            widget: string
+          - hint: 'Original text: Schedule a call, key: 5144446'
+            label: Text
+            name: '5144446'
+            widget: string
+          - hint: 'Original text: Useful Links, key: -1503fa51'
+            label: Text
+            name: '-1503fa51'
+            widget: string
+          - hint: 'Original text: About, key: 3c2336d'
+            label: Text
+            name: 3c2336d
+            widget: string
+          - hint: 'Original text: Team, key: 27b67d'
+            label: Text
+            name: 27b67d
+            widget: string
+          - hint: 'Original text: Contact Us, key: 7f2746de'
+            label: Text
+            name: 7f2746de
+            widget: string
+          - hint: 'Original text: HQFX + 3FJ, key: 6e0dedfd'
+            label: Text
+            name: 6e0dedfd
+            widget: string
+          - hint: 'Original text: Pyramid House, key: -55379bf0'
+            label: Text
+            name: '-55379bf0'
+            widget: string
+          - hint: 'Original text: Ring Road Central, Accra., key: -38c79e69'
+            label: Text
+            name: '-38c79e69'
+            widget: string
+          - hint: 'Original text: +233 540 130 760, key: -611c27e9'
+            label: Text
+            name: '-611c27e9'
+            widget: string
+          - hint: 'Original text: Email, key: 3ff5b7c'
+            label: Text
+            name: 3ff5b7c
+            widget: string
+          - hint: 'Original text: info@blayandassociates.com, key: -35b7d115'
+            label: Text
+            name: '-35b7d115'
             widget: string
           - hint: 'Original text: About Blay and Associates, key: 4fcfb7a9'
             label: Text
@@ -1225,6 +1144,69 @@ collections:
             label: Text
             name: 40e
             widget: string
+          - hint: 'Original text: Areas of Expertise, key: -27bb589e'
+            label: Text
+            name: '-27bb589e'
+            widget: string
+          - hint: >-
+              Original text: We provide strategic legal counsel and
+              representation in key sectors, ensuring our clients navigate
+              complex legal landscapes with confidence. Our areas of expertise
+              encompass: Dispute Resolution, Energy, Power and Infrastructure,
+              Mining, Corporate Transactions, Criminal Law, Banking and Finance,
+              and a broad range of related legal services., key: -ef094e9
+            label: Text
+            name: '-ef094e9'
+            widget: text
+          - hint: 'Original text: Project Finance, key: -2a26a26d'
+            label: Text
+            name: '-2a26a26d'
+            widget: string
+          - hint: 'Original text: Fintech, key: 30656901'
+            label: Text
+            name: '30656901'
+            widget: string
+          - hint: 'Original text: Media and Entertainment, key: -f804c7d'
+            label: Text
+            name: '-f804c7d'
+            widget: string
+          - hint: 'Original text: IP Dispute Resolution, key: -54b57e9f'
+            label: Text
+            name: '-54b57e9f'
+            widget: string
+          - hint: 'Original text: Telecommunications, key: 770c79a7'
+            label: Text
+            name: 770c79a7
+            widget: string
+          - hint: 'Original text: Energy, Power and Infrastructure, key: -32503f9d'
+            label: Text
+            name: '-32503f9d'
+            widget: string
+          - hint: >-
+              Original text: Green Financing and Sustainability Compliance, key:
+              -7dae7d7b
+            label: Text
+            name: '-7dae7d7b'
+            widget: string
+          - hint: 'Original text: White Collar Crime, key: f92e9e6'
+            label: Text
+            name: f92e9e6
+            widget: string
+          - hint: 'Original text: The Team, key: 41aee8ec'
+            label: Text
+            name: 41aee8ec
+            widget: string
+          - hint: >-
+              Original text: At Blay and Associates, our people are our greatest
+              asset. We are a team of approachable and dedicated legal experts
+              who prioritize understanding your unique needs. Our team of
+              experienced legal professionals brings a wealth of knowledge and
+              diverse perspectives to every case. We believe in collaborative
+              problem-solving and are united in our commitment to achieving the
+              best possible outcomes for our clients., key: -4b7121fc
+            label: Text
+            name: '-4b7121fc'
+            widget: text
           - hint: 'Original text: News and Insights, key: -6385e7cf'
             label: Text
             name: '-6385e7cf'
@@ -1258,9 +1240,27 @@ collections:
             label: Text
             name: '-3c926449'
             widget: text
-          - hint: 'Original text: Services, key: 560f747e'
+          - hint: 'Original text: People, key: -71b8e151'
             label: Text
-            name: 560f747e
+            name: '-71b8e151'
+            widget: string
+          - hint: 'Original text: Experience, key: 71b8358a'
+            label: Text
+            name: 71b8358a
+            widget: string
+          - hint: 'Original text: Publications, key: 4183f7e7'
+            label: Text
+            name: 4183f7e7
+            widget: string
+          - hint: >-
+              Original text: This is some text inside of a div block., key:
+              7635fb4f
+            label: Text
+            name: 7635fb4f
+            widget: string
+          - hint: 'Original text: Author, key: 75920dab'
+            label: Text
+            name: 75920dab
             widget: string
           - hint: 'Original text: Send us a message, key: 20046dbe'
             label: Text
@@ -1326,9 +1326,9 @@ collections:
             label: Text
             name: '-2c557cff'
             widget: string
-          - hint: 'Original text: Author, key: 75920dab'
+          - hint: 'Original text: Services, key: 560f747e'
             label: Text
-            name: 75920dab
+            name: 560f747e
             widget: string
       - label: Links
         name: links
@@ -2113,7 +2113,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 248ecef8
+            name: 45014e8a
             widget: object
             fields:
               - name: url
@@ -2126,7 +2126,33 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 2755adc
+            name: '-351c00'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 4d361b2d
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 26c65337
             widget: object
             fields:
               - name: url
@@ -2204,7 +2230,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-351c00'
+            name: 248ecef8
             widget: object
             fields:
               - name: url
@@ -2217,33 +2243,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 4d361b2d
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 26c65337
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 45014e8a
+            name: 2755adc
             widget: object
             fields:
               - name: url
@@ -2373,7 +2373,20 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: 587ea5a4
+            name: '-46796a01'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3cbca8bd'
             widget: object
             fields:
               - name: url
@@ -2425,20 +2438,7 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-46796a01'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3cbca8bd'
+            name: 587ea5a4
             widget: object
             fields:
               - name: url
