@@ -203,6 +203,14 @@
     "url": "/assets/images/image.svg",
     "alt": ""
   },
+  "248ecef8": {
+    "url": "/assets/images/arrow-white-.svg",
+    "alt": "White Arrow"
+  },
+  "2755adc": {
+    "url": "/assets/images/blayandassociates-logo-white.avif",
+    "alt": ""
+  },
   "531d01ba": {
     "url": "/assets/images/team-one.webp",
     "alt": ""
@@ -223,22 +231,6 @@
     "url": "/assets/images/blog-img1_1blog-img1.webp",
     "alt": "Blog Author Image"
   },
-  "248ecef8": {
-    "url": "/assets/images/arrow-white-.svg",
-    "alt": "White Arrow"
-  },
-  "2755adc": {
-    "url": "/assets/images/blayandassociates-logo-white.avif",
-    "alt": ""
-  },
-  "614b7824": {
-    "url": "/assets/images/about-two-arrow.svg",
-    "alt": "Arrow"
-  },
-  "45014e8a": {
-    "url": "/assets/images/lucy-blay.avif",
-    "alt": "Image of Lucy Blay"
-  },
   "-351c00": {
     "url": "/assets/images/home-four-rotate-arrow.svg",
     "alt": "Home Four Rotate Arrow"
@@ -250,6 +242,10 @@
   "26c65337": {
     "url": "/assets/images/vector-1.svg",
     "alt": ""
+  },
+  "45014e8a": {
+    "url": "/assets/images/lucy-blay.avif",
+    "alt": "Image of Lucy Blay"
   },
   "3cd96103": {
     "url": "/assets/images/gavel-1.svg",
@@ -282,6 +278,10 @@
   "-1e24533a": {
     "url": "/assets/images/subtask-2.svg",
     "alt": ""
+  },
+  "614b7824": {
+    "url": "/assets/images/about-two-arrow.svg",
+    "alt": "Arrow"
   },
   "587ea5a4": {
     "url": "/assets/images/4829869_arrow_next_right_icon-2.svg",
