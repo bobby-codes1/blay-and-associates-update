@@ -1144,6 +1144,21 @@ collections:
             label: Text
             name: 40e
             widget: string
+          - hint: 'Original text: The Team, key: 41aee8ec'
+            label: Text
+            name: 41aee8ec
+            widget: string
+          - hint: >-
+              Original text: At Blay and Associates, our people are our greatest
+              asset. We are a team of approachable and dedicated legal experts
+              who prioritize understanding your unique needs. Our team of
+              experienced legal professionals brings a wealth of knowledge and
+              diverse perspectives to every case. We believe in collaborative
+              problem-solving and are united in our commitment to achieving the
+              best possible outcomes for our clients., key: -4b7121fc
+            label: Text
+            name: '-4b7121fc'
+            widget: text
           - hint: 'Original text: Areas of Expertise, key: -27bb589e'
             label: Text
             name: '-27bb589e'
@@ -1192,21 +1207,6 @@ collections:
             label: Text
             name: f92e9e6
             widget: string
-          - hint: 'Original text: The Team, key: 41aee8ec'
-            label: Text
-            name: 41aee8ec
-            widget: string
-          - hint: >-
-              Original text: At Blay and Associates, our people are our greatest
-              asset. We are a team of approachable and dedicated legal experts
-              who prioritize understanding your unique needs. Our team of
-              experienced legal professionals brings a wealth of knowledge and
-              diverse perspectives to every case. We believe in collaborative
-              problem-solving and are united in our commitment to achieving the
-              best possible outcomes for our clients., key: -4b7121fc
-            label: Text
-            name: '-4b7121fc'
-            widget: text
           - hint: 'Original text: News and Insights, key: -6385e7cf'
             label: Text
             name: '-6385e7cf'
@@ -1240,28 +1240,6 @@ collections:
             label: Text
             name: '-3c926449'
             widget: text
-          - hint: 'Original text: People, key: -71b8e151'
-            label: Text
-            name: '-71b8e151'
-            widget: string
-          - hint: 'Original text: Experience, key: 71b8358a'
-            label: Text
-            name: 71b8358a
-            widget: string
-          - hint: 'Original text: Publications, key: 4183f7e7'
-            label: Text
-            name: 4183f7e7
-            widget: string
-          - hint: >-
-              Original text: This is some text inside of a div block., key:
-              7635fb4f
-            label: Text
-            name: 7635fb4f
-            widget: string
-          - hint: 'Original text: Author, key: 75920dab'
-            label: Text
-            name: 75920dab
-            widget: string
           - hint: 'Original text: Send us a message, key: 20046dbe'
             label: Text
             name: 20046dbe
@@ -1322,13 +1300,47 @@ collections:
             label: Text
             name: '-102617f2'
             widget: string
-          - hint: 'Original text: Read Full Article Here, key: -2c557cff'
+          - hint: 'Original text: People, key: -71b8e151'
             label: Text
-            name: '-2c557cff'
+            name: '-71b8e151'
+            widget: string
+          - hint: 'Original text: Experience, key: 71b8358a'
+            label: Text
+            name: 71b8358a
+            widget: string
+          - hint: 'Original text: Publications, key: 4183f7e7'
+            label: Text
+            name: 4183f7e7
+            widget: string
+          - hint: >-
+              Original text: This is some text inside of a div block., key:
+              7635fb4f
+            label: Text
+            name: 7635fb4f
             widget: string
           - hint: 'Original text: Services, key: 560f747e'
             label: Text
             name: 560f747e
+            widget: string
+          - hint: 'Original text: Read Full Article Here, key: -2c557cff'
+            label: Text
+            name: '-2c557cff'
+            widget: string
+          - hint: 'Original text: Author, key: 75920dab'
+            label: Text
+            name: 75920dab
+            widget: string
+          - hint: 'Original text: Click , key: 7877d7b8'
+            label: Text
+            name: 7877d7b8
+            widget: string
+          - hint: 'Original text: here, key: 30cff0'
+            label: Text
+            name: 30cff0
+            widget: string
+          - hint: 'Original text:  to download the article, key: -6e4606ec'
+            label: Text
+            name: '-6e4606ec'
             widget: string
       - label: Links
         name: links
@@ -1440,6 +1452,13 @@ collections:
           - hint: 'Original link: tel:(888)1234567, key: -42e91506'
             label: Link
             name: '-42e91506'
+            widget: string
+          - hint: >-
+              Original link:
+              /assets/documents/compressed-blay-and-associates-may-newsletter.pdf,
+              key: 456f3cf4
+            label: Link
+            name: 456f3cf4
             widget: string
       - label: Images
         name: images
@@ -2373,32 +2392,6 @@ collections:
                 widget: string
                 required: false
           - label: Image
-            name: '-46796a01'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-3cbca8bd'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
             name: '-115eba3b'
             widget: object
             fields:
@@ -2439,6 +2432,32 @@ collections:
                 required: false
           - label: Image
             name: 587ea5a4
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-46796a01'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: '-3cbca8bd'
             widget: object
             fields:
               - name: url

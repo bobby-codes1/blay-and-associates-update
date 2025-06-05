@@ -5815,9 +5815,10 @@
   flex-flow: column;
   justify-content: flex-start;
   align-items: flex-start;
+  margin-bottom: 1rem;
   font-family: Helvetica Neue, Verdana, sans-serif;
   font-size: 1rem;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.7;
   display: block;
 }
@@ -5963,6 +5964,19 @@
   flex: 0 auto;
   align-self: flex-start;
   display: flex;
+}
+
+.text-block-73 {
+  font-family: Helvetica Neue, Verdana, sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.link-11 {
+  color: #c03737;
+  font-weight: 500;
+  line-height: 20px;
+  text-decoration: underline;
 }
 
 @media screen and (min-width: 1280px) {
