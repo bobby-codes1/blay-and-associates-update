@@ -4857,8 +4857,8 @@
   align-items: stretch;
   max-width: 30%;
   height: 595px;
-  padding-left: 3rem;
-  padding-right: 3rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
   font-family: Open Sans, sans-serif;
   display: flex;
 }
@@ -5977,6 +5977,10 @@
   font-weight: 500;
   line-height: 20px;
   text-decoration: underline;
+}
+
+.map {
+  height: 65dvh;
 }
 
 @media screen and (min-width: 1280px) {

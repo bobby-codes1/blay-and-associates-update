@@ -583,6 +583,11 @@ collections:
         widget: markdown
         required: false
       - hint: ''
+        name: f_sort-order
+        label: Sort Order
+        widget: number
+        required: false
+      - hint: ''
         name: f__noSearch
         label: No Search
         widget: boolean
@@ -957,6 +962,54 @@ collections:
             label: Text
             name: '-35b7d115'
             widget: string
+          - hint: 'Original text: Areas of Expertise, key: -27bb589e'
+            label: Text
+            name: '-27bb589e'
+            widget: string
+          - hint: >-
+              Original text: We provide strategic legal counsel and
+              representation in key sectors, ensuring our clients navigate
+              complex legal landscapes with confidence. Our areas of expertise
+              encompass: Dispute Resolution, Energy, Power and Infrastructure,
+              Mining, Corporate Transactions, Criminal Law, Banking and Finance,
+              and a broad range of related legal services., key: -ef094e9
+            label: Text
+            name: '-ef094e9'
+            widget: text
+          - hint: 'Original text: Project Finance, key: -2a26a26d'
+            label: Text
+            name: '-2a26a26d'
+            widget: string
+          - hint: 'Original text: Fintech, key: 30656901'
+            label: Text
+            name: '30656901'
+            widget: string
+          - hint: 'Original text: Media and Entertainment, key: -f804c7d'
+            label: Text
+            name: '-f804c7d'
+            widget: string
+          - hint: 'Original text: IP Dispute Resolution, key: -54b57e9f'
+            label: Text
+            name: '-54b57e9f'
+            widget: string
+          - hint: 'Original text: Telecommunications, key: 770c79a7'
+            label: Text
+            name: 770c79a7
+            widget: string
+          - hint: 'Original text: Energy, Power and Infrastructure, key: -32503f9d'
+            label: Text
+            name: '-32503f9d'
+            widget: string
+          - hint: >-
+              Original text: Green Financing and Sustainability Compliance, key:
+              -7dae7d7b
+            label: Text
+            name: '-7dae7d7b'
+            widget: string
+          - hint: 'Original text: White Collar Crime, key: f92e9e6'
+            label: Text
+            name: f92e9e6
+            widget: string
           - hint: 'Original text: About Blay and Associates, key: 4fcfb7a9'
             label: Text
             name: 4fcfb7a9
@@ -1150,6 +1203,34 @@ collections:
             label: Text
             name: 40e
             widget: string
+          - hint: 'Original text: Newsletters, key: 58b23aba'
+            label: Text
+            name: 58b23aba
+            widget: string
+          - hint: 'Original text: Click , key: 7877d7b8'
+            label: Text
+            name: 7877d7b8
+            widget: string
+          - hint: 'Original text: here, key: 30cff0'
+            label: Text
+            name: 30cff0
+            widget: string
+          - hint: 'Original text:  to download the article, key: -6e4606ec'
+            label: Text
+            name: '-6e4606ec'
+            widget: string
+          - hint: 'Original text: Author, key: 75920dab'
+            label: Text
+            name: 75920dab
+            widget: string
+          - hint: 'Original text: Articles, key: -4564c9a3'
+            label: Text
+            name: '-4564c9a3'
+            widget: string
+          - hint: 'Original text: Read Full Article Here, key: -2c557cff'
+            label: Text
+            name: '-2c557cff'
+            widget: string
           - hint: 'Original text: The Team, key: 41aee8ec'
             label: Text
             name: 41aee8ec
@@ -1165,6 +1246,10 @@ collections:
             label: Text
             name: '-4b7121fc'
             widget: text
+          - hint: 'Original text: Services, key: 560f747e'
+            label: Text
+            name: 560f747e
+            widget: string
           - hint: 'Original text: News and Insights, key: -6385e7cf'
             label: Text
             name: '-6385e7cf'
@@ -1177,14 +1262,6 @@ collections:
             label: Text
             name: a381945
             widget: text
-          - hint: 'Original text: Articles, key: -4564c9a3'
-            label: Text
-            name: '-4564c9a3'
-            widget: string
-          - hint: 'Original text: Newsletters, key: 58b23aba'
-            label: Text
-            name: 58b23aba
-            widget: string
           - hint: >-
               Original text: Schedule a consultation with our experienced legal
               team, key: -45d49db7
@@ -1198,54 +1275,6 @@ collections:
             label: Text
             name: '-3c926449'
             widget: text
-          - hint: 'Original text: Areas of Expertise, key: -27bb589e'
-            label: Text
-            name: '-27bb589e'
-            widget: string
-          - hint: >-
-              Original text: We provide strategic legal counsel and
-              representation in key sectors, ensuring our clients navigate
-              complex legal landscapes with confidence. Our areas of expertise
-              encompass: Dispute Resolution, Energy, Power and Infrastructure,
-              Mining, Corporate Transactions, Criminal Law, Banking and Finance,
-              and a broad range of related legal services., key: -ef094e9
-            label: Text
-            name: '-ef094e9'
-            widget: text
-          - hint: 'Original text: Project Finance, key: -2a26a26d'
-            label: Text
-            name: '-2a26a26d'
-            widget: string
-          - hint: 'Original text: Fintech, key: 30656901'
-            label: Text
-            name: '30656901'
-            widget: string
-          - hint: 'Original text: Media and Entertainment, key: -f804c7d'
-            label: Text
-            name: '-f804c7d'
-            widget: string
-          - hint: 'Original text: IP Dispute Resolution, key: -54b57e9f'
-            label: Text
-            name: '-54b57e9f'
-            widget: string
-          - hint: 'Original text: Telecommunications, key: 770c79a7'
-            label: Text
-            name: 770c79a7
-            widget: string
-          - hint: 'Original text: Energy, Power and Infrastructure, key: -32503f9d'
-            label: Text
-            name: '-32503f9d'
-            widget: string
-          - hint: >-
-              Original text: Green Financing and Sustainability Compliance, key:
-              -7dae7d7b
-            label: Text
-            name: '-7dae7d7b'
-            widget: string
-          - hint: 'Original text: White Collar Crime, key: f92e9e6'
-            label: Text
-            name: f92e9e6
-            widget: string
           - hint: 'Original text: Send us a message, key: 20046dbe'
             label: Text
             name: 20046dbe
@@ -1324,30 +1353,6 @@ collections:
             label: Text
             name: 7635fb4f
             widget: string
-          - hint: 'Original text: Services, key: 560f747e'
-            label: Text
-            name: 560f747e
-            widget: string
-          - hint: 'Original text: Read Full Article Here, key: -2c557cff'
-            label: Text
-            name: '-2c557cff'
-            widget: string
-          - hint: 'Original text: Author, key: 75920dab'
-            label: Text
-            name: 75920dab
-            widget: string
-          - hint: 'Original text: Click , key: 7877d7b8'
-            label: Text
-            name: 7877d7b8
-            widget: string
-          - hint: 'Original text: here, key: 30cff0'
-            label: Text
-            name: 30cff0
-            widget: string
-          - hint: 'Original text:  to download the article, key: -6e4606ec'
-            label: Text
-            name: '-6e4606ec'
-            widget: string
       - label: Links
         name: links
         file: cms/_data/links.json
@@ -1383,6 +1388,12 @@ collections:
           - hint: 'Original link: #, key: 23'
             label: Link
             name: '23'
+            widget: string
+          - hint: >-
+              Original link:
+              https://www.linkedin.com/company/blay-&-associates/, key: 6a1bdd92
+            label: Link
+            name: 6a1bdd92
             widget: string
           - hint: 'Original link: tel:+233540130760, key: -6d2ed272'
             label: Link
@@ -1451,6 +1462,13 @@ collections:
             label: Link
             name: 2ea5ecfa
             widget: string
+          - hint: >-
+              Original link:
+              /assets/documents/compressed-blay-and-associates-may-newsletter.pdf,
+              key: 456f3cf4
+            label: Link
+            name: 456f3cf4
+            widget: string
           - hint: 'Original link: mailto:info@example.com, key: 28929a73'
             label: Link
             name: 28929a73
@@ -1458,13 +1476,6 @@ collections:
           - hint: 'Original link: tel:(888)1234567, key: -42e91506'
             label: Link
             name: '-42e91506'
-            widget: string
-          - hint: >-
-              Original link:
-              /assets/documents/compressed-blay-and-associates-may-newsletter.pdf,
-              key: 456f3cf4
-            label: Link
-            name: 456f3cf4
             widget: string
       - label: Images
         name: images
@@ -2385,6 +2396,45 @@ collections:
                 widget: string
                 required: false
           - label: Image
+            name: '-46796a01'
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 317f733b
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
+            name: 587ea5a4
+            widget: object
+            fields:
+              - name: url
+                label: Image Url
+                widget: image
+                allow_multiple: false
+                required: false
+              - name: alt
+                label: Image Alt
+                widget: string
+                required: false
+          - label: Image
             name: 614b7824
             widget: object
             fields:
@@ -2425,45 +2475,6 @@ collections:
                 required: false
           - label: Image
             name: 271ae03d
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 587ea5a4
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: '-46796a01'
-            widget: object
-            fields:
-              - name: url
-                label: Image Url
-                widget: image
-                allow_multiple: false
-                required: false
-              - name: alt
-                label: Image Alt
-                widget: string
-                required: false
-          - label: Image
-            name: 317f733b
             widget: object
             fields:
               - name: url

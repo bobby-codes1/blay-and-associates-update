@@ -244,7 +244,7 @@
           </div>
         </div>
       </div>
-      {%- assign collection = collections.people | limit: 3 -%}<div class="w-dyn-list">
+      {%- assign collection = collections.people | sort: "f_sort-order" | limit: 3 -%}<div class="w-dyn-list">
         {%- unless collection.length == 0 -%}<div role="list" class="collection-list-2 w-dyn-items">
           {%- for item in collection -%}<div role="listitem" class="collection-item-2 w-dyn-item">
             <div data-w-id="fbc683c6-3def-19d3-1ed0-d10a88319942" class="rt-team-one-expert-card rt-overflow-hidden">
@@ -394,7 +394,7 @@
         <div class="div-block-20">
           <div><img src="{{ images.2755adc.url }}" loading="lazy" width="164.5" alt="{{ images.2755adc.alt | escape }}" class="image-8"></div>
           <div class="icon-wrapper">
-            <a href="{{ links.23 }}" target="_blank" class="link-block-29 w-inline-block">
+            <a href="{{ links.6a1bdd92 }}" target="_blank" class="link-block-29 w-inline-block">
               <div class="icons-background">
                 <div class="footer-icons">{{ texts.f0e1 }}</div>
               </div>
@@ -447,4 +447,4 @@
 });
 </script>
 
-<script src="/assets/js/udesly-11ty.min.js" async="" defer=""></script>{{ settings.site.footer_additional_content }}<script>window.netlifyIdentity&&window.netlifyIdentity.on("init",a=>{a||window.netlifyIdentity.on("login",()=>{document.location.href="/admin/"})});</script><!--<script type="module">import*as UdeslyBanner from"https://cdn.jsdelivr.net/npm/udesly-ad-banner@0.0.4/loader/index.js";UdeslyBanner.defineCustomElements(),document.body.append(document.createElement("udesly-banner"));</script>--></body></html>
+<script src="/assets/js/udesly-11ty.min.js" async="" defer=""></script>{{ settings.site.footer_additional_content }}<script>window.netlifyIdentity&&window.netlifyIdentity.on("init",a=>{a||window.netlifyIdentity.on("login",()=>{document.location.href="/admin/"})});</script><script type="module">import*as UdeslyBanner from"https://cdn.jsdelivr.net/npm/udesly-ad-banner@0.0.4/loader/index.js";UdeslyBanner.defineCustomElements(),document.body.append(document.createElement("udesly-banner"));</script></body></html>
