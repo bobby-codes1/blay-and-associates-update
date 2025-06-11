@@ -203,22 +203,6 @@
     "url": "/assets/images/image.svg",
     "alt": ""
   },
-  "45014e8a": {
-    "url": "/assets/images/lucy-blay.avif",
-    "alt": "Image of Lucy Blay"
-  },
-  "-351c00": {
-    "url": "/assets/images/home-four-rotate-arrow.svg",
-    "alt": "Home Four Rotate Arrow"
-  },
-  "4d361b2d": {
-    "url": "/assets/images/financial-image.webp",
-    "alt": ""
-  },
-  "26c65337": {
-    "url": "/assets/images/vector-1.svg",
-    "alt": ""
-  },
   "531d01ba": {
     "url": "/assets/images/team-one.webp",
     "alt": ""
@@ -279,13 +263,25 @@
     "url": "/assets/images/subtask-2.svg",
     "alt": ""
   },
+  "26c65337": {
+    "url": "/assets/images/vector-1.svg",
+    "alt": ""
+  },
+  "45014e8a": {
+    "url": "/assets/images/lucy-blay.avif",
+    "alt": "Image of Lucy Blay"
+  },
+  "-351c00": {
+    "url": "/assets/images/home-four-rotate-arrow.svg",
+    "alt": "Home Four Rotate Arrow"
+  },
+  "4d361b2d": {
+    "url": "/assets/images/financial-image.webp",
+    "alt": ""
+  },
   "614b7824": {
     "url": "/assets/images/about-two-arrow.svg",
     "alt": "Arrow"
-  },
-  "587ea5a4": {
-    "url": "/assets/images/4829869_arrow_next_right_icon-2.svg",
-    "alt": ""
   },
   "-115eba3b": {
     "url": "/assets/images/group-865.svg",
@@ -298,6 +294,10 @@
   "271ae03d": {
     "url": "/assets/images/vector-7.svg",
     "alt": "Icon"
+  },
+  "587ea5a4": {
+    "url": "/assets/images/4829869_arrow_next_right_icon-2.svg",
+    "alt": ""
   },
   "-46796a01": {
     "url": "/assets/images/group-1.svg",
