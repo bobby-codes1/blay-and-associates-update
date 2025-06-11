@@ -1,0 +1,5 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+videos/Newest-B-and-A-Hero-Video-Compressed-transcode.mp4
+videos/Newest-B-and-A-Hero-Video-Compressed-transcode.webm
+videos/Newest-B-and-A-Hero-Video-Compressed.mp4
