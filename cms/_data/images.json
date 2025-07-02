@@ -199,52 +199,64 @@
     "url": "/assets/images/cta-bg.webp",
     "alt": ""
   },
+  "5c7a882d": {
+    "url": "/assets/images/home-one-hero-bg.webp",
+    "alt": ""
+  },
+  "3efba13b": {
+    "url": "/assets/images/testimonial.svg",
+    "alt": ""
+  },
+  "4682dc63": {
+    "url": "/assets/images/quote-1-1_1quote-1-1.png",
+    "alt": ""
+  },
+  "i9e2f2f0": {
+    "url": "/assets/images/testimonial-woman.webp",
+    "alt": ""
+  },
+  "i2b7a3734": {
+    "url": "/assets/images/testiminial-two.webp",
+    "alt": ""
+  },
+  "i726652c6": {
+    "url": "/assets/images/testiminial-three.webp",
+    "alt": ""
+  },
+  "i3af2ef1": {
+    "url": "/assets/images/arrow-7.svg",
+    "alt": ""
+  },
+  "i1d864aae": {
+    "url": "/assets/images/background-image-slider.webp",
+    "alt": ""
+  },
+  "i5e61adc9": {
+    "url": "/assets/images/-4.svg",
+    "alt": ""
+  },
+  "i2f28dbd0": {
+    "url": "/assets/images/icon-arrow-right-white.svg",
+    "alt": ""
+  },
+  "i6d6b3175": {
+    "url": "/assets/images/bg-green.svg",
+    "alt": ""
+  },
+  "i4a975247": {
+    "url": "/assets/images/span-marker.svg",
+    "alt": ""
+  },
+  "i785a9c9d": {
+    "url": "/assets/images/scribble-burst.svg",
+    "alt": ""
+  },
+  "7b72e1f2": {
+    "url": "/assets/images/icon-6.svg",
+    "alt": ""
+  },
   "c8a5c77": {
     "url": "/assets/images/image.svg",
-    "alt": ""
-  },
-  "45014e8a": {
-    "url": "/assets/images/lucy-blay.avif",
-    "alt": "Image of Lucy Blay"
-  },
-  "-351c00": {
-    "url": "/assets/images/home-four-rotate-arrow.svg",
-    "alt": "Home Four Rotate Arrow"
-  },
-  "4d361b2d": {
-    "url": "/assets/images/financial-image.webp",
-    "alt": ""
-  },
-  "26c65337": {
-    "url": "/assets/images/vector-1.svg",
-    "alt": ""
-  },
-  "531d01ba": {
-    "url": "/assets/images/team-one.webp",
-    "alt": ""
-  },
-  "-5104178e": {
-    "url": "/assets/images/material-symbols_mail-outline-rounded.svg",
-    "alt": ""
-  },
-  "-137c0172": {
-    "url": "/assets/images/linkedin.svg",
-    "alt": "Icon"
-  },
-  "-320e996b": {
-    "url": "/assets/images/modified-arrow.svg",
-    "alt": ""
-  },
-  "-29aa803e": {
-    "url": "/assets/images/blog-img1_1blog-img1.webp",
-    "alt": "Blog Author Image"
-  },
-  "248ecef8": {
-    "url": "/assets/images/arrow-white-.svg",
-    "alt": "White Arrow"
-  },
-  "2755adc": {
-    "url": "/assets/images/blayandassociates-logo-white.avif",
     "alt": ""
   },
   "3cd96103": {
@@ -279,6 +291,54 @@
     "url": "/assets/images/subtask-2.svg",
     "alt": ""
   },
+  "26c65337": {
+    "url": "/assets/images/vector-1.svg",
+    "alt": ""
+  },
+  "531d01ba": {
+    "url": "/assets/images/team-one.webp",
+    "alt": ""
+  },
+  "-5104178e": {
+    "url": "/assets/images/material-symbols_mail-outline-rounded.svg",
+    "alt": ""
+  },
+  "-137c0172": {
+    "url": "/assets/images/linkedin.svg",
+    "alt": "Icon"
+  },
+  "-320e996b": {
+    "url": "/assets/images/modified-arrow.svg",
+    "alt": ""
+  },
+  "-29aa803e": {
+    "url": "/assets/images/blog-img1_1blog-img1.webp",
+    "alt": "Blog Author Image"
+  },
+  "248ecef8": {
+    "url": "/assets/images/arrow-white-.svg",
+    "alt": "White Arrow"
+  },
+  "2755adc": {
+    "url": "/assets/images/blayandassociates-logo-white.avif",
+    "alt": ""
+  },
+  "45014e8a": {
+    "url": "/assets/images/lucy-blay.avif",
+    "alt": "Image of Lucy Blay"
+  },
+  "-351c00": {
+    "url": "/assets/images/home-four-rotate-arrow.svg",
+    "alt": "Home Four Rotate Arrow"
+  },
+  "4d361b2d": {
+    "url": "/assets/images/financial-image.webp",
+    "alt": ""
+  },
+  "614b7824": {
+    "url": "/assets/images/about-two-arrow.svg",
+    "alt": "Arrow"
+  },
   "-46796a01": {
     "url": "/assets/images/group-1.svg",
     "alt": ""
@@ -286,14 +346,6 @@
   "317f733b": {
     "url": "https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg",
     "alt": ""
-  },
-  "587ea5a4": {
-    "url": "/assets/images/4829869_arrow_next_right_icon-2.svg",
-    "alt": ""
-  },
-  "614b7824": {
-    "url": "/assets/images/about-two-arrow.svg",
-    "alt": "Arrow"
   },
   "-115eba3b": {
     "url": "/assets/images/group-865.svg",
@@ -306,5 +358,77 @@
   "271ae03d": {
     "url": "/assets/images/vector-7.svg",
     "alt": "Icon"
+  },
+  "587ea5a4": {
+    "url": "/assets/images/4829869_arrow_next_right_icon-2.svg",
+    "alt": ""
+  },
+  "69c5cc7b": {
+    "url": "/assets/images/legalfind-logo.png",
+    "alt": ""
+  },
+  "-2f28dbd0": {
+    "url": "/assets/images/icon-arrow-right-white.svg",
+    "alt": ""
+  },
+  "-5f74e2f5": {
+    "url": "/assets/images/freepik__the-style-is-candid-image-photography-with-natural__68770.jpeg",
+    "alt": ""
+  },
+  "-8d5abb8": {
+    "url": "/assets/images/play-1.gif",
+    "alt": ""
+  },
+  "-718f64a4": {
+    "url": "/assets/images/group-6-1_1.avif",
+    "alt": ""
+  },
+  "-39394f95": {
+    "url": "/assets/images/mingcute_pen-line.svg",
+    "alt": ""
+  },
+  "-3dec058f": {
+    "url": "/assets/images/group-1_1.svg",
+    "alt": ""
+  },
+  "-5e2a1e86": {
+    "url": "/assets/images/icon-park-outline_connect.svg",
+    "alt": ""
+  },
+  "7b007f61": {
+    "url": "/assets/images/freepik__the-style-is-candid-image-photography-with-natural__68769.jpeg",
+    "alt": ""
+  },
+  "253ba3c1": {
+    "url": "/assets/images/vertical-shot-cheerful-dark-skinned-unshaven-man-looks-positively_273609-19026.webp",
+    "alt": ""
+  },
+  "522630ec": {
+    "url": "/assets/images/pexels-thirdman-5060979-1-1-1_1.avif",
+    "alt": ""
+  },
+  "-76728fe8": {
+    "url": "/assets/images/pretty-curly-woman-holds-modern-2.jpg",
+    "alt": ""
+  },
+  "76c3fac4": {
+    "url": "/assets/images/icon-check.svg",
+    "alt": ""
+  },
+  "1184bcc4": {
+    "url": "/assets/images/instagram-icon.svg",
+    "alt": ""
+  },
+  "63ae51bc": {
+    "url": "/assets/images/facebook-icon.svg",
+    "alt": ""
+  },
+  "523fda84": {
+    "url": "/assets/images/linkedin-icon.svg",
+    "alt": ""
+  },
+  "768641a3": {
+    "url": "/assets/images/twitter-icon.svg",
+    "alt": ""
   }
 }
