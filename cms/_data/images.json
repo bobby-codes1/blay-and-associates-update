@@ -259,36 +259,16 @@
     "url": "/assets/images/image.svg",
     "alt": ""
   },
-  "3cd96103": {
-    "url": "/assets/images/gavel-1.svg",
-    "alt": ""
+  "45014e8a": {
+    "url": "/assets/images/lucy-blay.avif",
+    "alt": "Image of Lucy Blay"
   },
-  "2de0ded0": {
-    "url": "/assets/images/no-derivatives.svg",
-    "alt": ""
+  "-351c00": {
+    "url": "/assets/images/home-four-rotate-arrow.svg",
+    "alt": "Home Four Rotate Arrow"
   },
-  "13d166ea": {
-    "url": "/assets/images/briefcase-1.svg",
-    "alt": ""
-  },
-  "-1f6a945a": {
-    "url": "/assets/images/asterisk-1.svg",
-    "alt": ""
-  },
-  "-1e326abb": {
-    "url": "/assets/images/subtask-1.svg",
-    "alt": ""
-  },
-  "13df7e6b": {
-    "url": "/assets/images/briefcase-2.svg",
-    "alt": ""
-  },
-  "-1f5c7cd9": {
-    "url": "/assets/images/asterisk-2.svg",
-    "alt": ""
-  },
-  "-1e24533a": {
-    "url": "/assets/images/subtask-2.svg",
+  "4d361b2d": {
+    "url": "/assets/images/financial-image.webp",
     "alt": ""
   },
   "26c65337": {
@@ -323,16 +303,36 @@
     "url": "/assets/images/blayandassociates-logo-white.avif",
     "alt": ""
   },
-  "45014e8a": {
-    "url": "/assets/images/lucy-blay.avif",
-    "alt": "Image of Lucy Blay"
+  "3cd96103": {
+    "url": "/assets/images/gavel-1.svg",
+    "alt": ""
   },
-  "-351c00": {
-    "url": "/assets/images/home-four-rotate-arrow.svg",
-    "alt": "Home Four Rotate Arrow"
+  "2de0ded0": {
+    "url": "/assets/images/no-derivatives.svg",
+    "alt": ""
   },
-  "4d361b2d": {
-    "url": "/assets/images/financial-image.webp",
+  "13d166ea": {
+    "url": "/assets/images/briefcase-1.svg",
+    "alt": ""
+  },
+  "-1f6a945a": {
+    "url": "/assets/images/asterisk-1.svg",
+    "alt": ""
+  },
+  "-1e326abb": {
+    "url": "/assets/images/subtask-1.svg",
+    "alt": ""
+  },
+  "13df7e6b": {
+    "url": "/assets/images/briefcase-2.svg",
+    "alt": ""
+  },
+  "-1f5c7cd9": {
+    "url": "/assets/images/asterisk-2.svg",
+    "alt": ""
+  },
+  "-1e24533a": {
+    "url": "/assets/images/subtask-2.svg",
     "alt": ""
   },
   "614b7824": {
@@ -346,18 +346,6 @@
   "317f733b": {
     "url": "https://d3e54v103j8qbb.cloudfront.net/plugins/Basic/assets/placeholder.60f9b1840c.svg",
     "alt": ""
-  },
-  "-115eba3b": {
-    "url": "/assets/images/group-865.svg",
-    "alt": "Icon"
-  },
-  "-1150a2ba": {
-    "url": "/assets/images/group-866.svg",
-    "alt": "Icon"
-  },
-  "271ae03d": {
-    "url": "/assets/images/vector-7.svg",
-    "alt": "Icon"
   },
   "587ea5a4": {
     "url": "/assets/images/4829869_arrow_next_right_icon-2.svg",
@@ -430,5 +418,17 @@
   "768641a3": {
     "url": "/assets/images/twitter-icon.svg",
     "alt": ""
+  },
+  "-115eba3b": {
+    "url": "/assets/images/group-865.svg",
+    "alt": "Icon"
+  },
+  "-1150a2ba": {
+    "url": "/assets/images/group-866.svg",
+    "alt": "Icon"
+  },
+  "271ae03d": {
+    "url": "/assets/images/vector-7.svg",
+    "alt": "Icon"
   }
 }

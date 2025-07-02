@@ -911,7 +911,7 @@
 }
 
 .navbar-2 {
-  background-color: #000;
+  background-color: #292929;
   background-image: linear-gradient(#42424280, #42424280);
   border-bottom: 1px solid #fff;
   justify-content: space-between;
@@ -953,7 +953,7 @@
 }
 
 .image {
-  width: 7rem;
+  width: 9rem;
 }
 
 .button {
@@ -1152,9 +1152,13 @@
 }
 
 .brand {
-  background-color: #000;
+  background-color: #fff;
   border-right: 1px solid #fff;
   padding: 1rem 2rem 1rem 5rem;
+}
+
+.brand.w--current {
+  background-color: #fff;
 }
 
 .nav-menu {
@@ -8721,6 +8725,16 @@
   display: flex;
 }
 
+.legalfindlogo {
+  background-color: #fff;
+  border-right: 1px solid #fff;
+  padding: 1rem 2rem 1rem 5rem;
+}
+
+.legalfindlogo.w--current {
+  background-color: #000;
+}
+
 @media screen and (min-width: 1280px) {
   .nav-link {
     font-size: .75rem;
@@ -8735,6 +8749,10 @@
   .left-about {
     justify-content: flex-start;
     align-items: center;
+  }
+
+  .image {
+    width: 7rem;
   }
 
   .link-block-3 {
@@ -9217,6 +9235,10 @@
 
   .about, .about.w--current, .features {
     font-size: 1.2rem;
+  }
+
+  .legalfindlogo {
+    padding-left: 7rem;
   }
 }
 
@@ -9858,6 +9880,10 @@
   .rt-footer-one-copyright-2 {
     border-top-style: none;
     border-bottom-style: none;
+  }
+
+  .legalfindlogo {
+    padding-left: 10rem;
   }
 }
 
@@ -11407,6 +11433,10 @@
     grid-column-gap: 0px;
     grid-row-gap: 12px;
     flex-flow: column wrap;
+  }
+
+  .legalfindlogo {
+    padding-left: 3rem;
   }
 }
 
@@ -13409,6 +13439,10 @@
 
   .walsh-footer-inner {
     width: 100%;
+  }
+
+  .legalfindlogo {
+    padding-left: 2rem;
   }
 }
 
